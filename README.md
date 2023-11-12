@@ -16,3 +16,7 @@
 # Frontend
 
 - https://github.com/tepanda/clemson-mscs-cpsc-6720-frontend
+
+# Demo
+
+- https://www.youtube.com/watch?v=wNNCWIVsxqc
